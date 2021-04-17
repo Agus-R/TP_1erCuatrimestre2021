@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618065225 source:c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\tp1\funciones.c
+	"Funciones.h"
+
+1618283061 source:c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1618283005 c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\tp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
