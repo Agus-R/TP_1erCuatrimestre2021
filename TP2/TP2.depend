@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1621114191 source:c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\ejercicios\tp2\general.c
+	"General.h"
+
+1621113676 c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\ejercicios\tp2\general.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1621047359 source:c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\ejercicios\tp2\main.c
+	"Employee.h"
+
+1621114089 source:c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\ejercicios\tp2\employee.c
+	"Employee.h"
+
+1621047790 c:\users\argus\onedrive\documentos\1er cuatrimestre 2021\programacion - laboratorio\ejercicios\tp2\employee.h
+	"General.h"
+
